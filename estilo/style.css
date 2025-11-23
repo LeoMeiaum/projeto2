@@ -1,0 +1,117 @@
+@charset "UTF-8";
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    padding: 0px;
+    margin: 0px;
+}
+
+body, html {
+    background-image: linear-gradient(to left, rgb(201, 255, 248), rgb(186, 250, 255));
+}
+
+header {
+    background-image: linear-gradient(to left, rgb(255, 208, 0), rgb(255, 174, 0));
+    text-align: center;
+    height: 40px;
+    padding: 5px;
+    border: 1px solid rgb(255, 136, 0);
+}
+
+h1.title {
+    font-size: 2em;
+}
+
+div.posicao {
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 62px;
+}
+
+section.img {
+    width: 280px;
+    height: 330px;
+    margin: 30px 50px 20px 50px;
+    box-shadow: 0px 0px 10px;
+}
+
+/* Alunos*/
+
+section#aluno1 {
+    background: white url(../img/alef.jpg);
+    background-size: cover;
+}
+
+
+section#aluno3 {
+    background: white url(../img/Felix.jpg);
+    background-size: cover;
+}
+
+section#aluno8 {
+    background: white url(../img/Du.jpg);
+    background-size: cover;
+}
+
+section#aluno15 {
+    background: white url(../img/MariaC.jpg);
+    background-size: cover;
+}
+
+section#aluno16 {
+    background: white url(../img/Rachel.jpg);
+    background-size: cover;
+}
+
+/* Fim */
+
+div.moudura {
+    background-color: white;
+    text-align: center;
+    width: 260px;
+    height: 97px;
+    padding: 10px;
+    margin: 50px;
+    margin-top: 0px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px;
+    
+
+}
+
+h1 {
+    font-size: 1em;
+}
+
+p.nada {
+    color: white;
+}
+
+div#prof {
+    background-image: linear-gradient(to left, rgb(255, 208, 0), rgb(255, 174, 0));
+    font-size: 2em;
+    text-align: center;
+    height: 40px;
+    width: 400px;
+    margin: auto;
+    padding: 5px;
+    border-radius: 10px;
+    border: 1px solid rgb(255, 136, 0);
+}
+
+/* provessores */
+    section#prof1 {
+    background: white url(../img/alef.jpg);
+    background-size: cover;
+}
+/* Fim */
+
+div.posicaop {
+    display: inline-block;
+    box-sizing: content-box;
+}
+
+#p2 {
+    margin-left: 360px;
+}
