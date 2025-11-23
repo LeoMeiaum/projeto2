@@ -49,6 +49,17 @@ section#aluno3 {
     background-size: cover;
 }
 
+section#aluno4 {
+    background: white url(../img/ayna.jpg);
+    background-size: cover;
+}
+
+section#aluno6 {
+    background: white url(../img/Danilo.jpg);
+    background-size: cover;
+}
+
+
 section#aluno8 {
     background: white url(../img/Du.jpg);
     background-size: cover;
@@ -61,6 +72,11 @@ section#aluno15 {
 
 section#aluno16 {
     background: white url(../img/Rachel.jpg);
+    background-size: cover;
+}
+
+section#aluno18 {
+    background: white url(../img/Yasmim.jpg);
     background-size: cover;
 }
 
@@ -114,4 +130,8 @@ div.posicaop {
 
 #p2 {
     margin-left: 360px;
+}
+
+.imgturma {
+    
 }
